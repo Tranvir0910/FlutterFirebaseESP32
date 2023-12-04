@@ -1,1 +1,1 @@
-# FlutterFirebaseESP32
+# Autonomous Greenhouse App
